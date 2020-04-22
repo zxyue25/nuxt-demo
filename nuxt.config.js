@@ -1,4 +1,4 @@
-module.exports = {
+ module.exports = {
   /*
   ** Headers of the page
   */
